@@ -8,3 +8,4 @@ To run the chabot kindly make sure ollama is isntalled and has llama3.2 model pu
 The gradio chatbot file is available with name rag_chatbot.ipynb
 The fine tuned model is i nfolder trained-model
 
+Python 3.10.18  version
